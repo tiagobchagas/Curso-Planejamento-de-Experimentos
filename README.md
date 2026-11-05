@@ -1,12 +1,12 @@
 # 📊 Curso: Planejamento Experimental e Análise de Dados
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?logo=github)](https://tiagobchagas.github.io/Curso_Genes/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?logo=github)](https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/)
 [![Status](https://img.shields.io/badge/Status-Em%20andamento-blue)]()
 [![License](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC%204.0-lightgrey)]()
 
 > Material didático do curso de **Planejamento e Análise de Experimentos Agrícolas**, com foco em experimentação agrícola, genética quantitativa e uso do software **GENES** para análise de dados.
 
-🌐 **Acesse o material online:** [https://tiagobchagas.github.io/Curso_Genes/](https://tiagobchagas.github.io/Curso_Genes/)
+🌐 **Acesse o material online:** [https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/](https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/)
 
 ---
 
@@ -95,16 +95,16 @@ O segundo dia é dedicado às técnicas de comparação de médias e à aplicaç
 
 ## 🚀 Como utilizar este material
 
-1. **Acesse o site publicado:** [https://tiagobchagas.github.io/Curso_Genes/](https://tiagobchagas.github.io/Curso_Genes/)
+1. **Acesse o site publicado:** [https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/](https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/)
 2. **Navegue pelos dias do curso** usando o menu ou o índice.
 3. **Baixe os arquivos** deste repositório para acompanhar as aulas:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/tiagobchagas/Curso_Genes.git
+git clone https://github.com/tiagobchagas/Curso-Planejamento-de-Experimentos.git
 
 # Acesse a pasta
-cd Curso_Genes
+cd Curso-Planejamento-de-Experimentos
 ```
 
 4. **Abra o arquivo `index.html`** em seu navegador para visualizar o conteúdo localmente.
@@ -146,7 +146,7 @@ Contribuições são bem-vindas! Caso encontre erros, tenha sugestões ou queira
    ```
 5. Abra um **Pull Request** 🎉
 
-Sugestões e dúvidas também podem ser enviadas abrindo uma [**Issue**](https://github.com/tiagobchagas/Curso_Genes/issues).
+Sugestões e dúvidas também podem ser enviadas abrindo uma [**Issue**](https://github.com/tiagobchagas/Curso-Planejamento-de-Experimentos/issues).
 
 ---
 
@@ -170,11 +170,11 @@ Para mais detalhes, consulte o arquivo [`LICENSE`](LICENSE) (quando disponível)
 
 ## 🔗 Links úteis
 
-- 🌐 [Site do curso no GitHub Pages](https://tiagobchagas.github.io/Curso_Genes/)
-- 💻 [Repositório no GitHub](https://github.com/tiagobchagas/Curso_Genes)
-- 🧬 [Software GENES — Site oficial](https://www.genes.ufv.br/)
-- 📚 [Currículo Lattes do ministrante](http://lattes.cnpq.br/)
+- 🌐 [Site do curso no GitHub Pages](https://tiagobchagas.github.io/Curso-Planejamento-de-Experimentos/)
+- 💻 [Repositório no GitHub](https://github.com/tiagobchagas/Curso-Planejamento-de-Experimentos)
+- 🧬 [Software GENES — Site oficial](https://biometria.ufv.br/infra-estrutura/)
+- 📚 [Currículo Lattes do ministrante]( http://lattes.cnpq.br/5006416944454998)
 
 ---
 
-<sub>📌 **Nota:** Este README foi elaborado para acompanhar o site publicado no GitHub Pages. Para que o site funcione corretamente, certifique-se de que o arquivo principal seja nomeado `index.html` e que o arquivo `.nojekyll` esteja presente na raiz do repositório.</sub>
+<sub>📌 **Nota:** Este README foi elaborado para acompanhar o site publicado no GitHub Pages. Para que o site funcione corretamente, certifique-se de que o arquivo principal seja nomeado `index.html`.</sub>
